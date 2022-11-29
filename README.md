@@ -12,5 +12,5 @@ Wie geht man mit Fontdesign um, wenn die Auflösung stark beschränkt ist? Sowoh
 * mindestens 4 iPads mit Internetverbindung & Browser
 
 ## Material pro Anmeldung
-* 1 × Edding 3000
-* 1 × Edding 400
+* 1 × Edding 3000 schwarz
+* 1 × Edding 400 schwarz
