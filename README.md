@@ -1,4 +1,4 @@
-# Pixelfonts like it's 1994
+# Pixelfonts like it's 1982
 Von Bitmaps zu Schriftbildern: Workshop für Low-Res Schriftgestaltung
 
 ## Kontext
