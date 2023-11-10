@@ -1,5 +1,7 @@
-# «Pixelfonts like it's 1994»
+# Pixelfonts like it's 1994
+Von Bitmaps zu Schriftbildern: Workshop für Low-Res Schriftgestaltung
 
+## Kontext
 Maximale Anzahl Personen: 20  
 Minimale Dauer: 1.5h  
 
